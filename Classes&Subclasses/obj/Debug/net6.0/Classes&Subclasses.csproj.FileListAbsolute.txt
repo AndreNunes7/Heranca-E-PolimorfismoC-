@@ -1,0 +1,14 @@
+D:\ProjetosC#\Classes&Subclasses\Classes&Subclasses\bin\Debug\net6.0\Classes&Subclasses.exe
+D:\ProjetosC#\Classes&Subclasses\Classes&Subclasses\bin\Debug\net6.0\Classes&Subclasses.deps.json
+D:\ProjetosC#\Classes&Subclasses\Classes&Subclasses\bin\Debug\net6.0\Classes&Subclasses.runtimeconfig.json
+D:\ProjetosC#\Classes&Subclasses\Classes&Subclasses\bin\Debug\net6.0\Classes&Subclasses.dll
+D:\ProjetosC#\Classes&Subclasses\Classes&Subclasses\bin\Debug\net6.0\Classes&Subclasses.pdb
+D:\ProjetosC#\Classes&Subclasses\Classes&Subclasses\obj\Debug\net6.0\Classes&Subclasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\Classes&Subclasses\Classes&Subclasses\obj\Debug\net6.0\Classes&Subclasses.AssemblyInfoInputs.cache
+D:\ProjetosC#\Classes&Subclasses\Classes&Subclasses\obj\Debug\net6.0\Classes&Subclasses.AssemblyInfo.cs
+D:\ProjetosC#\Classes&Subclasses\Classes&Subclasses\obj\Debug\net6.0\Classes&Subclasses.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\Classes&Subclasses\Classes&Subclasses\obj\Debug\net6.0\Classes&Subclasses.dll
+D:\ProjetosC#\Classes&Subclasses\Classes&Subclasses\obj\Debug\net6.0\refint\Classes&Subclasses.dll
+D:\ProjetosC#\Classes&Subclasses\Classes&Subclasses\obj\Debug\net6.0\Classes&Subclasses.pdb
+D:\ProjetosC#\Classes&Subclasses\Classes&Subclasses\obj\Debug\net6.0\Classes&Subclasses.genruntimeconfig.cache
+D:\ProjetosC#\Classes&Subclasses\Classes&Subclasses\obj\Debug\net6.0\ref\Classes&Subclasses.dll
